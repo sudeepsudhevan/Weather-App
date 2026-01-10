@@ -27,3 +27,7 @@ The app follows a client-server architecture:
 3.  Backend receives the request, appends the API Key, and calls OpenWeatherMap.
 4.  Backend returns the JSON data to the Frontend.
 5.  Frontend renders the data in a beautiful glassmorphism card.
+
+## ScreenShot
+![Screenshot_10-1-2026_12519_localhost](https://github.com/user-attachments/assets/b7e461e9-c701-4491-93f9-eace95a3480f)
+
